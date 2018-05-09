@@ -1,0 +1,32 @@
+{
+  "name": "travis_setup_learning",
+  "version": "1.0.0",
+  "description": "Learning Travis setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titu/learn-travis.git"
+  },
+  "keywords": [
+    "travis",
+    "continuous",
+    "integration",
+    "build",
+    "deploy"
+  ],
+  "author": "titu'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titu/learn-travis/issues"
+  },
+  "homepage": "https://github.com/titu/learn-travis#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
